@@ -78,10 +78,10 @@
   ],
   "artifacts": [
     {
-      "hash": "b8188f95e0f916da57534f9436bbbcc81a535f0d9e2af345b7e12d587935ef0b",
+      "hash": "a8b233b3947aed67c0627081c565f54ca2ed661ba715e429361ddc862ae31ff8",
       "name": "game-0.0.1.jar",
       "path": "https://github.com/IlleraiRSPS/hosting/raw/main/client/live/repo/game-0.0.1.jar",
-      "size": 5303057
+      "size": 5199128
     },
     {
       "hash": "84276753094e10d911bf52cde5226ff25b245a3e458b5edd5ae5b97639763371",
@@ -580,7 +580,7 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "game-0.0.1.jar": "b8188f95e0f916da57534f9436bbbcc81a535f0d9e2af345b7e12d587935ef0b",
+    "game-0.0.1.jar": "a8b233b3947aed67c0627081c565f54ca2ed661ba715e429361ddc862ae31ff8",
     "runelite-0.0.1.jar": "84276753094e10d911bf52cde5226ff25b245a3e458b5edd5ae5b97639763371",
     "kotlin-stdlib-jdk8-1.8.22.jar": "4198b0eaf090a4f25b6f7e5a59581f4314ba8c9f6cd1d13ee9d348e65ed8f707",
     "kotlin-stdlib-jdk7-1.8.22.jar": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
