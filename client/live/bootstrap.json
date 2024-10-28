@@ -78,16 +78,16 @@
   ],
   "artifacts": [
     {
-      "hash": "b74cbcefce33c5d144312489701c99957fed7f8fb9265e4fe91269484dd2b119",
+      "hash": "e3d611b99ee0f56347c461351f8b72274c1098267301d1a44db0897d35cf6219",
       "name": "game-0.0.1.jar",
       "path": "https://github.com/IlleraiRSPS/hosting/raw/main/client/live/repo/game-0.0.1.jar",
-      "size": 27621792
+      "size": 28900981
     },
     {
-      "hash": "14e7550acdf40e5616d2e2062480ec068146df7a30252cea78639cb0e536d468",
+      "hash": "4baffff155024da68fc2de950ac787f731b93ba7f1c67ef872d1869d69f6c70c",
       "name": "runelite-0.0.1.jar",
       "path": "https://github.com/IlleraiRSPS/hosting/raw/main/client/live/repo/runelite-0.0.1.jar",
-      "size": 15585379
+      "size": 15588386
     },
     {
       "hash": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
@@ -108,16 +108,16 @@
       "size": 166681
     },
     {
-      "hash": "fe6b8f6f3f89ce76847181e6dc89bb747f572b2e12ae71b2784d6a07552378bd",
-      "name": "kotlinx-coroutines-core-jvm-1.8.1-Beta.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.8.1-Beta/kotlinx-coroutines-core-jvm-1.8.1-Beta.jar",
-      "size": 1546884
-    },
-    {
       "hash": "4496b06e73982fcdd8a5393f46e5df2ce2fa4465df5895454cac68a32f09bbc8",
       "name": "okio-jvm-2.8.0.jar",
       "path": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio/2.8.0/okio-2.8.0.jar",
       "size": 243179
+    },
+    {
+      "hash": "fe6b8f6f3f89ce76847181e6dc89bb747f572b2e12ae71b2784d6a07552378bd",
+      "name": "kotlinx-coroutines-core-jvm-1.8.1-Beta.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.8.1-Beta/kotlinx-coroutines-core-jvm-1.8.1-Beta.jar",
+      "size": 1546884
     },
     {
       "hash": "91fad0b42974a7d5811e30a61f05706e176b144235717c6de7e81e3a781028f2",
@@ -216,6 +216,30 @@
       "size": 283367
     },
     {
+      "hash": "dba6e408f205215ad1a89b70b37353d3cdae4ec61037e1feee885704e2413458",
+      "name": "bcprov-jdk15on-1.61.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk15on/1.61/bcprov-jdk15on-1.61.jar",
+      "size": 4543663
+    },
+    {
+      "hash": "c0099299bf8de33328a528ef05d235c1984c7ecc156b70dd5f052ceb2a7c254e",
+      "name": "thumbnailator-0.4.14.jar",
+      "path": "https://repo.maven.apache.org/maven2/net/coobird/thumbnailator/0.4.14/thumbnailator-0.4.14.jar",
+      "size": 111497
+    },
+    {
+      "hash": "23df58fae9c83d1bcd277b99f9429e9d8c134f0600b73e2e86b2385ed793c81e",
+      "name": "commons-codec-1.12.jar",
+      "path": "https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.12/commons-codec-1.12.jar",
+      "size": 339669
+    },
+    {
+      "hash": "cfee5822e342c4018b9c71acc6aac0e23910f1b04725a0e44fe9f94ef2dc3f1e",
+      "name": "jgroups-5.2.2.Final.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jgroups/jgroups/5.2.2.Final/jgroups-5.2.2.Final.jar",
+      "size": 2192603
+    },
+    {
       "hash": "b5543ee08d062d551cf0a5c9bc0fb70588b0382079029ba48941fa9c9be8a5d4",
       "name": "fastutil-8.5.12.jar",
       "path": "https://repo.maven.apache.org/maven2/it/unimi/dsi/fastutil/8.5.12/fastutil-8.5.12.jar",
@@ -274,12 +298,6 @@
       "name": "rxjava-3.1.2.jar",
       "path": "https://repo.maven.apache.org/maven2/io/reactivex/rxjava3/rxjava/3.1.2/rxjava-3.1.2.jar",
       "size": 2654933
-    },
-    {
-      "hash": "cfee5822e342c4018b9c71acc6aac0e23910f1b04725a0e44fe9f94ef2dc3f1e",
-      "name": "jgroups-5.2.2.Final.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/jgroups/jgroups/5.2.2.Final/jgroups-5.2.2.Final.jar",
-      "size": 2192603
     },
     {
       "hash": "1903bc6d87f3ab92023957b91f45a9c8eb3515bad030356ce977201e5141b724",
@@ -512,13 +530,13 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "game-0.0.1.jar": "b74cbcefce33c5d144312489701c99957fed7f8fb9265e4fe91269484dd2b119",
-    "runelite-0.0.1.jar": "14e7550acdf40e5616d2e2062480ec068146df7a30252cea78639cb0e536d468",
+    "game-0.0.1.jar": "e3d611b99ee0f56347c461351f8b72274c1098267301d1a44db0897d35cf6219",
+    "runelite-0.0.1.jar": "4baffff155024da68fc2de950ac787f731b93ba7f1c67ef872d1869d69f6c70c",
     "kotlin-stdlib-jdk7-1.8.22.jar": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
     "okhttp-4.9.1.jar": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
     "klaxon-5.5.jar": "7f70ecba1cdce3d0cea5c94eaae19e6d0c5a82181b6c24d3dd808a3419e83663",
-    "kotlinx-coroutines-core-jvm-1.8.1-Beta.jar": "fe6b8f6f3f89ce76847181e6dc89bb747f572b2e12ae71b2784d6a07552378bd",
     "okio-jvm-2.8.0.jar": "4496b06e73982fcdd8a5393f46e5df2ce2fa4465df5895454cac68a32f09bbc8",
+    "kotlinx-coroutines-core-jvm-1.8.1-Beta.jar": "fe6b8f6f3f89ce76847181e6dc89bb747f572b2e12ae71b2784d6a07552378bd",
     "kotlin-reflect-1.4.31.jar": "91fad0b42974a7d5811e30a61f05706e176b144235717c6de7e81e3a781028f2",
     "kotlin-stdlib-1.9.21.jar": "3b479313ab6caea4e5e25d3dee8ca80c302c89ba73e1af4dafaa100f6ef9296a",
     "kotlin-stdlib-jdk8-1.8.22.jar": "4198b0eaf090a4f25b6f7e5a59581f4314ba8c9f6cd1d13ee9d348e65ed8f707",
@@ -535,6 +553,10 @@
     "commons-text-1.10.0.jar": "770cd903fa7b604d1f7ef7ba17f84108667294b2b478be8ed1af3bffb4ae0018",
     "commons-lang3-3.12.0.jar": "d919d904486c037f8d193412da0c92e22a9fa24230b9d67a57855c5c31c7e94e",
     "gson-2.10.1.jar": "4241c14a7727c34feea6507ec801318a3d4a90f070e4525681079fb94ee4c593",
+    "bcprov-jdk15on-1.61.jar": "dba6e408f205215ad1a89b70b37353d3cdae4ec61037e1feee885704e2413458",
+    "thumbnailator-0.4.14.jar": "c0099299bf8de33328a528ef05d235c1984c7ecc156b70dd5f052ceb2a7c254e",
+    "commons-codec-1.12.jar": "23df58fae9c83d1bcd277b99f9429e9d8c134f0600b73e2e86b2385ed793c81e",
+    "jgroups-5.2.2.Final.jar": "cfee5822e342c4018b9c71acc6aac0e23910f1b04725a0e44fe9f94ef2dc3f1e",
     "fastutil-8.5.12.jar": "b5543ee08d062d551cf0a5c9bc0fb70588b0382079029ba48941fa9c9be8a5d4",
     "vecmath-1.5.2.jar": "3558e81ca74c60dc01baca7ef05f48594bbaed43af45d4f1b9196e479734e675",
     "sentry-6.0.0.jar": "828e52091739f3266176f524311e42dd1214042d5690890ffe5cb9c0c59791c7",
@@ -545,7 +567,6 @@
     "protobuf-javalite-3.21.7.jar": "43945d791ece2012bb9086907e124ff814afd4014209f67cc89e7f324390c061",
     "rxrelay-3.0.1.jar": "f47904873d4d2b7d71b22a7ec6424b40f69b33cb0342a48a94b0be3fdeb70bc5",
     "rxjava-3.1.2.jar": "8d784075bec0b7c55042c109a4de8923b3b6d2ebd2e00912d518f07240f9c23a",
-    "jgroups-5.2.2.Final.jar": "cfee5822e342c4018b9c71acc6aac0e23910f1b04725a0e44fe9f94ef2dc3f1e",
     "jna-platform-5.9.0.jar": "1903bc6d87f3ab92023957b91f45a9c8eb3515bad030356ce977201e5141b724",
     "discord-1.4.jar": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5",
     "jna-5.9.0.jar": "eafcc780b445434d3c5ae7fa2fb6665de1a7560d537d2c408a8e80cd14d27161",
