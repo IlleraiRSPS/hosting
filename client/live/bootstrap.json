@@ -78,10 +78,10 @@
   ],
   "artifacts": [
     {
-      "hash": "e3d611b99ee0f56347c461351f8b72274c1098267301d1a44db0897d35cf6219",
+      "hash": "ceb09905b6523b09abeef98c3965f6148058c8337405fef19ced16feb75257ea",
       "name": "game-0.0.1.jar",
       "path": "https://github.com/IlleraiRSPS/hosting/raw/main/client/live/repo/game-0.0.1.jar",
-      "size": 28900981
+      "size": 28904672
     },
     {
       "hash": "4baffff155024da68fc2de950ac787f731b93ba7f1c67ef872d1869d69f6c70c",
@@ -530,7 +530,7 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "game-0.0.1.jar": "e3d611b99ee0f56347c461351f8b72274c1098267301d1a44db0897d35cf6219",
+    "game-0.0.1.jar": "ceb09905b6523b09abeef98c3965f6148058c8337405fef19ced16feb75257ea",
     "runelite-0.0.1.jar": "4baffff155024da68fc2de950ac787f731b93ba7f1c67ef872d1869d69f6c70c",
     "kotlin-stdlib-jdk7-1.8.22.jar": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
     "okhttp-4.9.1.jar": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
